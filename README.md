@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Can</h1>
 <h3 align="center">A passionate fullstack engineer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakcandev" alt="burakcandev" /></a> </p>
-
-- 🌱 I’m currently learning **other backend frameworks**
+- 🌱 I’m currently learning **fullstack**
 
 - 👨‍💻 All of my projects are available at [https://burakcan.dev](https://burakcan.dev)
 
